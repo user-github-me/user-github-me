@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PHP, Cyber Security**
 
-- 📫 How to reach me **abdullahnajif5@gmail.com**
+- 📫 How to reach me **contact@abdullahbd.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
