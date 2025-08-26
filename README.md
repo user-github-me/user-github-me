@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Md. Nazif</h1>
+<h1 align="center">Hi 👋, I'm Abdullah M. Nazif</h1>
 <h3 align="center">I am entrepreneur and web developer</h3>
 
 
